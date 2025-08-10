@@ -1,2 +1,0 @@
-# Credit_Card_Finacial_Dashboard
-Power_bi Dashboard
